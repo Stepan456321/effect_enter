@@ -1,4 +1,4 @@
-main: main.java
+main: com.example.main
 name: Effect_enter
 version: 1
 author: Stepan_5
